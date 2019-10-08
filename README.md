@@ -1,5 +1,5 @@
 # Unix 
-Upload &amp; download files from server
+Upload &amp; download files from/to server
 
 Run program in Linux:
 
